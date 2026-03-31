@@ -6,4 +6,4 @@ def read_csv(file_path):
         data = [row for row in csv_reader]
     return data
 
-print(read_csv('D:\\Practise\\csv_reader\\emp_details.csv'))
+print(read_csv('emp_details.csv'))
